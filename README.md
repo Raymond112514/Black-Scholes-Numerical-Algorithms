@@ -1,4 +1,4 @@
-# Black-Scholes-Numerical-Algorithms
+# Black Scholes Numerical Algorithms
 
 This is the repository documenting my MATH 221: Numerical Linear Algebra final project. In this project, I focused on evaluating the performance of various linear system solvers for solving the discretized Black-Scholes equation. The implemented solvers include Jacobi, Gauss-Seidel, Successive Over-Relaxation (SOR) method, and multigrid method, all implemented in Matlab.
 
